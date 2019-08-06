@@ -1,3 +1,3 @@
 # projectfinal
 
-# Start this application: type of command line "npm start dev" 
+# Start this application: type on command line "npm start dev" 
